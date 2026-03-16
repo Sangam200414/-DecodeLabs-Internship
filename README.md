@@ -27,9 +27,6 @@ The project demonstrates **semantic HTML structure, modern CSS layout techniques
 ## 🌐 Live Demo
 https://sangam-responsive-task.netlify.app/
 
-## 💻 GitHub Repository
-https://github.com/Sangam200414/responsive-frontend-task
-
 ## 👨‍💻 Author
 **Sangam Maurya**
 
